@@ -1,5 +1,5 @@
-# ODSC Workshop: Intro to R		-*- mode: markdown -*-
-Pawel Paczuski [pavopax.com]   [AMA!] 	
+## ODSC Workshop: Intro to R
+[Pawel Paczuski](pavopax.com)   [AMA!] 	
 
 Quick Start
 ===============================================================================
@@ -17,7 +17,7 @@ Contents
 
 * Outline/Programs  
 
-* Set-up/Installation  
+* Set-up
 * Installing R  
 
 * Resources  
@@ -131,15 +131,15 @@ We use statistical analysis for:
 
 
 
-Set-up/Installation
+Set-up
 ===============================================================================
 
 1. Install R, RStudio, and the `dplyr` and `ggplot2` packages
    [see `Installing R` below]
 
-2. Download this repository ["Download Zip" link on the right] and
-   *unzip* it to a convenient location on your computer. We will be
-   working with its contents.
+2. Download this repository ("Download Zip" link on the top right of
+this page) and *unzip* it to a convenient location on your
+computer. We will be working with its contents.
 
 3. Open R Studio
 
