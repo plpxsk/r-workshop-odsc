@@ -16,7 +16,7 @@ Contents
 ===============================================================================
 
 * Set-up
-* Installing R  
+* Installing the R environment  
 * **Outline/Programs**
 * Resources  
 * Credits  
@@ -31,7 +31,7 @@ Set-up
 ===============================================================================
 
 1. Install R, RStudio, and the `dplyr` and `ggplot2` packages
-   [see `Installing R` below]
+   [see `Installing the R environment` below]
 
 2. Download this repository ("Download Zip" link on the top right of
    this page) and *unzip* it to a convenient location on your
@@ -51,7 +51,7 @@ Set-up
 	
 
 
-Installing R
+Installing the R environment
 ===============================================================================
 
 Below are instructions to install R, a few packages, as well as
@@ -71,13 +71,15 @@ RStudio, which we will be using during the workshop.
 	See top of:  
 	http://cran.us.r-project.org 
 
-2. Install the following R packages (see instructions which follow):
+2. Install the **following R packages** (see instructions which
+   follow):
 
-	“ggplot2"
-	“dplyr”
+	ggplot2
+
+	dplyr
 
 	a) MAC OS X and Linux:
-	* Open R
+	* Open R (not RStudio for this step)
 	* In Menu, go to “Packages and Data” - > “Package Installer”
 	* Search for and install the above two packages (may need to
       choose a “mirror” - click on something in the USA) as follows:
@@ -86,7 +88,7 @@ RStudio, which we will be using during the workshop.
 	* Do the same for the other package
 	
 	b) Windows:
-	* Open R
+	* Open R (not RStudio for this step)
 	* In Menu, go to "Packages" -> "Install package(s)..." and select
       each of the packages at top to install.
 	
