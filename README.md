@@ -15,11 +15,9 @@ A sample directory structure is in `/templates`
 Contents
 ===============================================================================
 
-* Outline/Programs  
-
 * Set-up
 * Installing R  
-
+* **Outline/Programs**
 * Resources  
 * Credits  
 
@@ -27,6 +25,76 @@ Contents
 
   
 
+
+
+Set-up
+===============================================================================
+
+1. Install R, RStudio, and the `dplyr` and `ggplot2` packages
+   [see `Installing R` below]
+
+2. Download this repository ("Download Zip" link on the top right of
+   this page) and *unzip* it to a convenient location on your
+   computer. We will be working with its contents.
+
+3. Open R Studio
+
+4. Set the working directory to the `/programs` directory of the
+   just-downloaded repository, as follows:
+
+   * Session -> Set Working Directory -> Choose Directory...
+
+   * Navigate and Open the `/programs` directory
+
+5. Open the file `0-intro.R` [File - Open file...]. You will find it
+   in `/programs`
+	
+
+
+Installing R
+===============================================================================
+
+Below are instructions to install R, a few packages, as well as
+RStudio, which we will be using during the workshop.
+
+1. Install R
+
+	Mac OS X  
+	download and install from:  
+	http://cran.r-project.org/bin/macosx/ [click `R-3.2.0.pkg` on left]
+
+	Windows  
+	download and install from:  
+	http://cran.r-project.org/bin/windows/base/
+
+	Linux, etc  
+	See top of:  
+	http://cran.us.r-project.org 
+
+2. Install the following R packages (see instructions which follow):
+
+	“ggplot2"
+	“dplyr”
+
+	a) MAC OS X and Linux:
+	* Open R
+	* In Menu, go to “Packages and Data” - > “Package Installer”
+	* Search for and install the above two packages (may need to
+      choose a “mirror” - click on something in the USA) as follows:
+	* Type in the name of one package, click “get list”, check
+      “Install Dependencies” and then “Install Selected”
+	* Do the same for the other package
+	
+	b) Windows:
+	* Open R
+	* In Menu, go to "Packages" -> "Install package(s)..." and select
+      each of the packages at top to install.
+	
+
+3. Install RStudio (a great interface for using R)
+
+	Install for your appropriate system from the list at:
+	http://www.rstudio.com/products/rstudio/download/
 
 
 Outline/Programs
@@ -130,75 +198,9 @@ We use statistical analysis for:
 
 
 
-
-Set-up
-===============================================================================
-
-1. Install R, RStudio, and the `dplyr` and `ggplot2` packages
-   [see `Installing R` below]
-
-2. Download this repository ("Download Zip" link on the top right of
-   this page) and *unzip* it to a convenient location on your
-   computer. We will be working with its contents.
-
-3. Open R Studio
-
-4. Set the working directory to the `/programs` directory of the
-   just-downloaded repository, as follows:
-
-   * Session -> Set Working Directory -> Choose Directory...
-
-   * Navigate and Open the `/programs` directory
-
-5. Open the file `0-intro.R` [File - Open file...]. You will find it
-   in `/programs`
 	
 
 
-Installing R
-===============================================================================
-
-Below are instructions to install R, a few packages, as well as
-RStudio, which we will be using during the workshop.
-
-1. Install R
-
-	Mac OS X  
-	download and install from:  
-	http://cran.r-project.org/bin/macosx/ [click `R-3.2.0.pkg` on left]
-
-	Windows  
-	download and install from:  
-	http://cran.r-project.org/bin/windows/base/
-
-	Linux, etc  
-	See top of:  
-	http://cran.us.r-project.org 
-
-2. Install the following R packages (see instructions which follow):
-
-	“ggplot2"
-	“dplyr”
-
-	a) MAC OS X and Linux:
-	* Open R
-	* In Menu, go to “Packages and Data” - > “Package Installer”
-	* Search for and install the above two packages (may need to
-      choose a “mirror” - click on something in the USA) as follows:
-	* Type in the name of one package, click “get list”, check
-      “Install Dependencies” and then “Install Selected”
-	* Do the same for the other package
-	
-	b) Windows:
-	* Open R
-	* In Menu, go to "Packages" -> "Install package(s)..." and select
-      each of the packages at top to install.
-	
-
-3. Install RStudio (a great interface for using R)
-
-	Install for your appropriate system from the list at:
-	http://www.rstudio.com/products/rstudio/download/
 
 
 Resources
