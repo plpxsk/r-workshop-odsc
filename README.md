@@ -1,5 +1,5 @@
 ## ODSC Workshop: Intro to R
-[Pawel Paczuski](pavopax.com)   [AMA!] 	
+[Pawel Paczuski](http://www.pavopax.com)   [AMA!] 	
 
 Quick Start
 ===============================================================================
@@ -7,7 +7,7 @@ This is a hands-on introduction to R. We will go through actual code
 and learn about data manipulation, graphics, and fundamentals of
 statistical modeling.
 
-Set-up/Installation instructions are below.
+**Set-up/Installation instructions are below.**
 
 A sample directory structure is in `/templates`
 
@@ -138,8 +138,8 @@ Set-up
    [see `Installing R` below]
 
 2. Download this repository ("Download Zip" link on the top right of
-this page) and *unzip* it to a convenient location on your
-computer. We will be working with its contents.
+   this page) and *unzip* it to a convenient location on your
+   computer. We will be working with its contents.
 
 3. Open R Studio
 
