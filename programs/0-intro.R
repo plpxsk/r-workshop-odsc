@@ -4,7 +4,7 @@
 
 ## type getwd() in in RStudio's "Console" (bottom left)
 ## the output should end in:
-## /r-workshop-meetup-master/programs
+## [...]/r-workshop-odsc-master/programs
 
 ## if not, navigate to this directory in RStudio with:
 ## Session - Set Working Directory - Choose Directory...
