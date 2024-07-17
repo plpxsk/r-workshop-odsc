@@ -1,5 +1,5 @@
 ## ODSC Workshop: Intro to R
-[Pawel Paczuski](http://www.pavopax.com)   [AMA!] 	
+Paul Paczuski   [AMA!] 	
 
 Quick Start
 ===============================================================================
